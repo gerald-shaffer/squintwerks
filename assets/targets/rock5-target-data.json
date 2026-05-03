@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 40,
+    "width": 804,
+    "height": 1072,
+    "isRotated": false,
+    "originalWidth": 883,
+    "originalHeight": 1072
+  },
+  "imagePath": "/manus-storage/rock5_luminance_b1dd403e.png",
+  "metadata": null,
+  "name": "rock5",
+  "resources": {
+    "originalImage": "rock5_original.png",
+    "croppedImage": "rock5_cropped.png",
+    "thumbnailImage": "rock5_thumbnail.png",
+    "luminanceImage": "rock5_luminance.png"
+  },
+  "created": 1777845253679,
+  "updated": 1777845253679
+}
